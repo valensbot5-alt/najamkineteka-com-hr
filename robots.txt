@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://najamkineteka.com.hr/sitemap.xml
